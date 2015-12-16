@@ -1,3 +1,5 @@
+
+//import java.util.*;
 class X 
 {
 	int i=20;
